@@ -1,0 +1,20 @@
+[{
+    "name": "img1",
+    "img": "http://www.nongji1688.com/file/upload/202001/15/0915163450801.jpg",
+    "price": "120000",
+    "company": "北京市德勒机械有限公司",
+    "city": "北京市"
+
+}, {
+    "name": "img2",
+    "img": "https://i.machinio.com/medium/al/pfqkjj/4054778536_2.jpg",
+    "price": "1111111",
+    "company": "乌鲁木齐机械有限公司",
+    "city": "乌鲁木齐市"
+}, {
+    "name": "img3",
+    "img": "http://www.nongji1688.com/file/upload/202007/09/1725538650801.png",
+    "price": "2345",
+    "company": "上海市有货机械有限公司",
+    "city": "上海市"
+}]
