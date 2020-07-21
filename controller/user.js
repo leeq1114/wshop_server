@@ -50,7 +50,8 @@ router.post('/loginUser', async(ctx) => {
                         code : 200,
                         message : '登录成功',
                         userInfo: {
-                            name: result.userName
+                            name: result.userName,
+                            id: result._id
                         }
                     }
                 } else {
